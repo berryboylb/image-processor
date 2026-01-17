@@ -6,6 +6,7 @@
 *.bmp
 *.tiff
 *.tif
+*.svg
 
 # Dependency directories
 vendor/

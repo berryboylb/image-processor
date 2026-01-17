@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/user/image-lib/pkg/img"
+	"github.com/berryboylb/image-processor/pkg/img"
 )
 
 func main() {

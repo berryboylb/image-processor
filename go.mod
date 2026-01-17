@@ -1,4 +1,4 @@
-module github.com/user/image-lib
+module github.com/berryboylb/image-processor
 
 go 1.24.4
 
